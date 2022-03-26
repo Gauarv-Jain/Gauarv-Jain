@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauarv-Jain
+- 👋 Hi, I’m @Gaurav-Jain
 - 👀 I’m interested in Gaming ,Anime and Coding
 - 🌱 I’m currently learning Kotlin and Android development 
 - 📫  You can reach me via e-mail: jaing438@gmail.com
