@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav-Jain a Information Technology student at NIT Allahabad
 - 👀 I’m interested in Gaming ,Anime and Coding
-- 🌱 I’m currently learning Kotlin and Android development and doing competitive coding alongside it
+- 🌱 I’m currently learning Node.js and Web development and doing competitive coding alongside it
 - 📫  Connect with me on [Linkedin](https://www.linkedin.com/in/gaurav-jain-0a9a25235/) | jaing438@gmail.com
 
 ---
